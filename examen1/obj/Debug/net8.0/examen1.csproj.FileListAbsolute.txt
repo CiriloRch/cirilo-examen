@@ -1,0 +1,15 @@
+C:\examen\examen1\bin\Debug\net8.0\examen1.exe
+C:\examen\examen1\bin\Debug\net8.0\examen1.deps.json
+C:\examen\examen1\bin\Debug\net8.0\examen1.runtimeconfig.json
+C:\examen\examen1\bin\Debug\net8.0\examen1.dll
+C:\examen\examen1\bin\Debug\net8.0\examen1.pdb
+C:\examen\examen1\obj\Debug\net8.0\examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\examen\examen1\obj\Debug\net8.0\examen1.AssemblyInfoInputs.cache
+C:\examen\examen1\obj\Debug\net8.0\examen1.AssemblyInfo.cs
+C:\examen\examen1\obj\Debug\net8.0\examen1.csproj.CoreCompileInputs.cache
+C:\examen\examen1\obj\Debug\net8.0\examen1.sourcelink.json
+C:\examen\examen1\obj\Debug\net8.0\examen1.dll
+C:\examen\examen1\obj\Debug\net8.0\refint\examen1.dll
+C:\examen\examen1\obj\Debug\net8.0\examen1.pdb
+C:\examen\examen1\obj\Debug\net8.0\examen1.genruntimeconfig.cache
+C:\examen\examen1\obj\Debug\net8.0\ref\examen1.dll
