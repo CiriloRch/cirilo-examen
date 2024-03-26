@@ -1,17 +1,41 @@
-﻿using system;
-namespace programa
+﻿using System;
 
+class Program
 {
-    class FuncionesUtiles
-    
+    static void Main()
     {
-        int nem1 = 5;
-        int nem2 = 3;
-        static int suma_elementos(int nem1, int nem2)//sumar neumeros
+        string texto = "Hola";
+        try
         {
-            int suma = nem1 + nem22;
-            return suma;
+            MostrarVocales(texto);
         }
+        catch (Exception ex)
+        {
+            Console.WriteLine("Error: " + ex.Message);
+        }
+    }
 
+    static void MostrarVocales(string texto)
+    {
+        Console.WriteLine("Las vocales en el texto son:");
+        int conteoVocales = 0;
+        foreach (char letra in texto)
+        {
+            if (EsVocal(letra))
+            {
+                Console.WriteLine(letra);
+                conteoVocales++;
+                if (conteoVocales > 3)
+                {
+                    throw new Exception("El texto contiene más de 3 vocales.");
+                }
+            }
+        }
+    }
+
+    static bool EsVocal(char letra)
+    {
+        letra = Char.ToLower(letra);
+        return letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u';
     }
 }
