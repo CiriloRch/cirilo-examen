@@ -1,0 +1,15 @@
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\bin\Debug\net8.0\clasenum1.exe
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\bin\Debug\net8.0\clasenum1.deps.json
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\bin\Debug\net8.0\clasenum1.runtimeconfig.json
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\bin\Debug\net8.0\clasenum1.dll
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\bin\Debug\net8.0\clasenum1.pdb
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\obj\Debug\net8.0\clasenum1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\obj\Debug\net8.0\clasenum1.AssemblyInfoInputs.cache
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\obj\Debug\net8.0\clasenum1.AssemblyInfo.cs
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\obj\Debug\net8.0\clasenum1.csproj.CoreCompileInputs.cache
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\obj\Debug\net8.0\clasenum1.sourcelink.json
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\obj\Debug\net8.0\clasenum1.dll
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\obj\Debug\net8.0\refint\clasenum1.dll
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\obj\Debug\net8.0\clasenum1.pdb
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\obj\Debug\net8.0\clasenum1.genruntimeconfig.cache
+D:\CIRILO\Nueva carpeta\cirilo-examen\clasenum1\obj\Debug\net8.0\ref\clasenum1.dll
